@@ -7,3 +7,12 @@
 ### The data processed for model training and testing includes: (1) Traffic flow data, (2) Risky driving behavior data, (3) Crash index data, and (4) Aggregated traffic flow and risky driving behavior data.
 ### Due to the data privacy, the raw data cannot be open to public. 
 ### Please feel free to contact the authors if you have any questions or issues.
+
+### This is the paper link: https://ieeexplore.ieee.org/abstract/document/10633785/. 
+@article{han2024lstm,
+  title={LSTM $+ $ Transformer Real-Time Crash Risk Evaluation Using Traffic Flow and Risky Driving Behavior Data},
+  author={Han, Lei and Abdel-Aty, Mohamed and Yu, Rongjie and Wang, Chenzhu},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2024},
+  publisher={IEEE}
+}
