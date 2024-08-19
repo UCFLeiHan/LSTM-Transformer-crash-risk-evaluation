@@ -9,6 +9,7 @@
 ### Please feel free to contact the authors if you have any questions or issues.
 
 ### This is the paper link: https://ieeexplore.ieee.org/abstract/document/10633785/. 
+### Please refer this paper as: 
 @article{han2024lstm,
   title={LSTM $+ $ Transformer Real-Time Crash Risk Evaluation Using Traffic Flow and Risky Driving Behavior Data},
   author={Han, Lei and Abdel-Aty, Mohamed and Yu, Rongjie and Wang, Chenzhu},
